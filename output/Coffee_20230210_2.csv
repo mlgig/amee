@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Coffee,local_mean,ridgecv,weasel,0.8339285714285715
+Coffee,local_mean,rocket-shap,weasel,0.7160714285714285
+Coffee,global_mean,ridgecv,weasel,0.4910714285714286
+Coffee,global_mean,rocket-shap,weasel,0.5267857142857143
+Coffee,global_gaussian,ridgecv,weasel,0.4910714285714286
+Coffee,global_gaussian,rocket-shap,weasel,0.5196428571428572
+Coffee,local_gaussian,ridgecv,weasel,0.7625
+Coffee,local_gaussian,rocket-shap,weasel,0.6660714285714284

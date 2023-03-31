@@ -1,0 +1,21 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+SmallMiddle_CAR,local_mean,GT,rocket,0.6009999999999999
+SmallMiddle_CAR,global_mean,GT,rocket,0.45699999999999996
+SmallMiddle_CAR,global_gaussian,GT,rocket,0.506
+SmallMiddle_CAR,local_gaussian,GT,rocket,0.5005
+SmallMiddle_CAR,local_mean,GT,resnet,0.44899999999999995
+SmallMiddle_CAR,global_mean,GT,resnet,0.44899999999999995
+SmallMiddle_CAR,global_gaussian,GT,resnet,0.48649999999999993
+SmallMiddle_CAR,local_gaussian,GT,resnet,0.523
+SmallMiddle_CAR,local_mean,GT,knn,0.6009999999999999
+SmallMiddle_CAR,global_mean,GT,knn,0.6029999999999999
+SmallMiddle_CAR,global_gaussian,GT,knn,0.5475
+SmallMiddle_CAR,local_gaussian,GT,knn,0.542
+SmallMiddle_CAR,local_mean,GT,MrSEQLClassifier,0.5689999999999998
+SmallMiddle_CAR,global_mean,GT,MrSEQLClassifier,0.44899999999999995
+SmallMiddle_CAR,global_gaussian,GT,MrSEQLClassifier,0.45099999999999996
+SmallMiddle_CAR,local_gaussian,GT,MrSEQLClassifier,0.4604999999999999
+SmallMiddle_CAR,local_mean,GT,weasel,0.6009999999999999
+SmallMiddle_CAR,global_mean,GT,weasel,0.6049999999999999
+SmallMiddle_CAR,global_gaussian,GT,weasel,0.5745
+SmallMiddle_CAR,local_gaussian,GT,weasel,0.546

@@ -1,0 +1,11 @@
+dataset,MrSEQLClassifier,knn,resnet,rocket,weasel
+SM_CAR,1.00,1.00,1.00,1.00,1.00
+SM_NARMA,1.00,1.00,1.00,1.00,1.00
+SM_Harmonic,0.85,1.00,1.00,1.00,1.00
+SM_PseudoPeriodic,0.84,1.00,1.00,1.00,1.00
+SM_GaussianProcess,0.64,0.94,0.84,0.89,0.85
+RT_CAR,1.00,1.00,1.00,1.00,1.00
+RT_NARMA,1.00,1.00,1.00,1.00,1.00
+RT_Harmonic,0.80,1.00,0.96,1.00,0.97
+RT_PseudoPeriodic,0.79,0.99,0.94,0.99,0.92
+RT_GaussianProcess,0.51,0.87,0.64,0.80,0.73

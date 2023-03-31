@@ -1,0 +1,17 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+CMJ,local_mean,ridgecv,rocket,0.6326815642458101
+CMJ,global_mean,ridgecv,rocket,0.662290502793296
+CMJ,global_gaussian,ridgecv,rocket,0.503072625698324
+CMJ,local_gaussian,ridgecv,rocket,0.6131284916201118
+CMJ,local_mean,ridgecv,resnet,0.537709497206704
+CMJ,global_mean,ridgecv,resnet,0.5516759776536313
+CMJ,global_gaussian,ridgecv,resnet,0.47290502793296085
+CMJ,local_gaussian,ridgecv,resnet,0.49553072625698324
+CMJ,local_mean,ridgecv,knn,0.6134078212290502
+CMJ,global_mean,ridgecv,knn,0.5673184357541899
+CMJ,global_gaussian,ridgecv,knn,0.5684357541899441
+CMJ,local_gaussian,ridgecv,knn,0.590782122905028
+CMJ,local_mean,ridgecv,MrSEQLClassifier,0.5527932960893855
+CMJ,global_mean,ridgecv,MrSEQLClassifier,0.4678770949720671
+CMJ,global_gaussian,ridgecv,MrSEQLClassifier,0.5907821229050281
+CMJ,local_gaussian,ridgecv,MrSEQLClassifier,0.6636871508379889

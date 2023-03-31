@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+CMJ,local_mean,ridgecv,weasel,0.6217877094972066
+CMJ,local_mean,rocket-shap,weasel,0.49217877094972073
+CMJ,global_mean,ridgecv,weasel,0.5391061452513966
+CMJ,global_mean,rocket-shap,weasel,0.4675977653631285
+CMJ,global_gaussian,ridgecv,weasel,0.6603351955307263
+CMJ,global_gaussian,rocket-shap,weasel,0.5620111731843576
+CMJ,local_gaussian,ridgecv,weasel,0.7516759776536314
+CMJ,local_gaussian,rocket-shap,weasel,0.6388268156424581

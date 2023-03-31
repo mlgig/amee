@@ -1,0 +1,21 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+SmallMiddle_CAR,local_mean,rocket-shap,rocket,0.6759999999999999
+SmallMiddle_CAR,global_mean,rocket-shap,rocket,0.6050000000000001
+SmallMiddle_CAR,global_gaussian,rocket-shap,rocket,0.615
+SmallMiddle_CAR,local_gaussian,rocket-shap,rocket,0.5905
+SmallMiddle_CAR,local_mean,rocket-shap,resnet,0.535
+SmallMiddle_CAR,global_mean,rocket-shap,resnet,0.513
+SmallMiddle_CAR,global_gaussian,rocket-shap,resnet,0.5295
+SmallMiddle_CAR,local_gaussian,rocket-shap,resnet,0.5780000000000001
+SmallMiddle_CAR,local_mean,rocket-shap,knn,0.712
+SmallMiddle_CAR,global_mean,rocket-shap,knn,0.7269999999999999
+SmallMiddle_CAR,global_gaussian,rocket-shap,knn,0.6685000000000001
+SmallMiddle_CAR,local_gaussian,rocket-shap,knn,0.643
+SmallMiddle_CAR,local_mean,rocket-shap,MrSEQLClassifier,0.5379999999999999
+SmallMiddle_CAR,global_mean,rocket-shap,MrSEQLClassifier,0.5019999999999999
+SmallMiddle_CAR,global_gaussian,rocket-shap,MrSEQLClassifier,0.498
+SmallMiddle_CAR,local_gaussian,rocket-shap,MrSEQLClassifier,0.5075
+SmallMiddle_CAR,local_mean,rocket-shap,weasel,0.6859999999999999
+SmallMiddle_CAR,global_mean,rocket-shap,weasel,0.714
+SmallMiddle_CAR,global_gaussian,rocket-shap,weasel,0.6755
+SmallMiddle_CAR,local_gaussian,rocket-shap,weasel,0.6400000000000001

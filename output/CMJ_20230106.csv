@@ -1,0 +1,17 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+CMJ,local_mean,rocket-shap,rocket,0.46731843575419
+CMJ,global_mean,rocket-shap,rocket,0.5254189944134079
+CMJ,global_gaussian,rocket-shap,rocket,0.4801675977653632
+CMJ,local_gaussian,rocket-shap,rocket,0.488268156424581
+CMJ,local_mean,rocket-shap,resnet,0.5416201117318435
+CMJ,global_mean,rocket-shap,resnet,0.4790502793296089
+CMJ,global_gaussian,rocket-shap,resnet,0.44608938547486043
+CMJ,local_gaussian,rocket-shap,resnet,0.4229050279329608
+CMJ,local_mean,rocket-shap,knn,0.5603351955307262
+CMJ,global_mean,rocket-shap,knn,0.5946927374301676
+CMJ,global_gaussian,rocket-shap,knn,0.6019553072625697
+CMJ,local_gaussian,rocket-shap,knn,0.5416201117318435
+CMJ,local_mean,rocket-shap,MrSEQLClassifier,0.4393854748603352
+CMJ,global_mean,rocket-shap,MrSEQLClassifier,0.38240223463687156
+CMJ,global_gaussian,rocket-shap,MrSEQLClassifier,0.503072625698324
+CMJ,local_gaussian,rocket-shap,MrSEQLClassifier,0.5458100558659217

@@ -1,0 +1,9 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Coffee,global_mean,lime_rocket,rocket,0.5017857142857143
+Coffee,local_mean,lime_rocket,rocket,0.8767857142857144
+Coffee,global_mean,lime_rocket,resnet,0.8464285714285715
+Coffee,local_mean,lime_rocket,resnet,0.8535714285714286
+Coffee,global_mean,lime_rocket,knn,0.744642857142857
+Coffee,local_mean,lime_rocket,knn,0.8410714285714285
+Coffee,global_mean,lime_rocket,MrSEQLClassifier,0.4910714285714286
+Coffee,local_mean,lime_rocket,MrSEQLClassifier,0.7553571428571428

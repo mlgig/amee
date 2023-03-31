@@ -1,0 +1,21 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+CMJ,local_mean,mrseql-shap,rocket,0.4581005586592179
+CMJ,global_mean,mrseql-shap,rocket,0.48882681564245806
+CMJ,global_gaussian,mrseql-shap,rocket,0.4832402234636871
+CMJ,local_gaussian,mrseql-shap,rocket,0.49441340782122906
+CMJ,local_mean,mrseql-shap,resnet,0.5399441340782123
+CMJ,global_mean,mrseql-shap,resnet,0.4768156424581006
+CMJ,global_gaussian,mrseql-shap,resnet,0.4360335195530727
+CMJ,local_gaussian,mrseql-shap,resnet,0.4083798882681564
+CMJ,local_mean,mrseql-shap,knn,0.530167597765363
+CMJ,global_mean,mrseql-shap,knn,0.5483240223463688
+CMJ,global_gaussian,mrseql-shap,knn,0.5611731843575419
+CMJ,local_gaussian,mrseql-shap,knn,0.5315642458100559
+CMJ,local_mean,mrseql-shap,MrSEQLClassifier,0.4237430167597765
+CMJ,global_mean,mrseql-shap,MrSEQLClassifier,0.34050279329608935
+CMJ,global_gaussian,mrseql-shap,MrSEQLClassifier,0.4298882681564246
+CMJ,local_gaussian,mrseql-shap,MrSEQLClassifier,0.5011173184357542
+CMJ,local_mean,mrseql-shap,weasel,0.4849162011173185
+CMJ,global_mean,mrseql-shap,weasel,0.46703910614525146
+CMJ,global_gaussian,mrseql-shap,weasel,0.5614525139664804
+CMJ,local_gaussian,mrseql-shap,weasel,0.6120111731843575

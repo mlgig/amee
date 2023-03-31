@@ -1,0 +1,17 @@
+dataset,noise_type,XAI_method,Referee,metrics: explanation_auc
+Coffee,local_mean,rocket-shap,rocket,0.805357142857143
+Coffee,global_mean,rocket-shap,rocket,0.5303571428571429
+Coffee,global_gaussian,rocket-shap,rocket,0.4910714285714286
+Coffee,local_gaussian,rocket-shap,rocket,0.5964285714285713
+Coffee,local_mean,rocket-shap,resnet,0.5464285714285714
+Coffee,global_mean,rocket-shap,resnet,0.6071428571428571
+Coffee,global_gaussian,rocket-shap,resnet,0.47857142857142854
+Coffee,local_gaussian,rocket-shap,resnet,0.41071428571428564
+Coffee,local_mean,rocket-shap,knn,0.8374999999999999
+Coffee,global_mean,rocket-shap,knn,0.48392857142857143
+Coffee,global_gaussian,rocket-shap,knn,0.4946428571428571
+Coffee,local_gaussian,rocket-shap,knn,0.6821428571428572
+Coffee,local_mean,rocket-shap,MrSEQLClassifier,0.7732142857142859
+Coffee,global_mean,rocket-shap,MrSEQLClassifier,0.5232142857142857
+Coffee,global_gaussian,rocket-shap,MrSEQLClassifier,0.5267857142857143
+Coffee,local_gaussian,rocket-shap,MrSEQLClassifier,0.7375
